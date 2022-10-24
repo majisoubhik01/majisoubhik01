@@ -54,8 +54,8 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=majisoubhik01)  
 
-<p>&nbsp;</p>
 
+<!--
 ## 🚀 My Projects:
 <p align="center">
   <a href="https://github.com/majisoubhik01/EDA-of-AQI-India-Dataset-with-Tableau-and-Python">
