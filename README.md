@@ -54,6 +54,32 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=majisoubhik01)  
 
+<p>&nbsp;</p>
+
+## 🚀 My Projects:
+<p align="center">
+  <a href="https://github.com/majisoubhik01/EDA-of-AQI-India-Dataset-with-Tableau-and-Python">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=majisoubhik01&repo=EDA-of-AQI-India-Dataset-with-Tableau-and-Python&hide_border=true&border_radius=15&&line_height=24&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D" /></a>
+  
+  <a href="https://github.com/majisoubhik01/Phishing-Classifier">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=majisoubhik01&repo=Phishing-Classifier&hide_border=true&border_radius=15&&line_height=24&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D" /></a>
+
+  <a href="https://github.com/majisoubhik01/Cement-Strength-Prediction">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=majisoubhik01&repo=Cement-Strength-Prediction&hide_border=true&border_radius=15&&line_height=24&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D" /></a>
+  <a href="https://github.com/majisoubhik01/hangman-game">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=majisoubhik01&repo=hangman-game&hide_border=true&border_radius=15&&line_height=24&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D" /></a>
+  <!--<a href="https://github.com/SABERGLOW/AsteroidMiners">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SABERGLOW&repo=AsteroidMiners&hide_border=true&border_radius=15&&line_height=24&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D" /></a>
+  <a href="https://github.com/SABERGLOW/Space_Nebula">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SABERGLOW&repo=Space_Nebula&hide_border=true&border_radius=15&&line_height=24&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D" /></a>
+  <a href="https://github.com/SABERGLOW/Movie_Recommender_Engine">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SABERGLOW&repo=Movie_Recommender_Engine&hide_border=true&border_radius=15&&line_height=24&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D" /></a>
+<a href="https://github.com/SABERGLOW/Clrd.">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SABERGLOW&repo=Clrd.&hide_border=true&border_radius=15&&line_height=24&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D" /></a>
+<a href="https://github.com/SABERGLOW/Feedback_Management_System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SABERGLOW&repo=Feedback_Management_System&hide_border=true&border_radius=15&&line_height=24&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D" /></a>
+<a href="https://github.com/SABERGLOW/SONGS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SABERGLOW&repo=SONGS&hide_border=true&border_radius=15&&line_height=24&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D" /></a> -->
 <!--
 **majisoubhik01/majisoubhik01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
