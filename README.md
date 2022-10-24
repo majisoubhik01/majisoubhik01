@@ -70,6 +70,8 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=majisoubhik01&repo=hangman-game&hide_border=true&border_radius=15&&line_height=24&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D" /></a>
   <a href="https://github.com/majisoubhik01/Bank-Campaign-Analysis">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=majisoubhik01&repo=Bank-Campaign-Analysis&hide_border=true&border_radius=15&&line_height=24&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D" /></a>
+  <a href="https://github.com/majisoubhik01/EDA-of-AQI-India-Dataset-with-Tableau-and-Python">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=majisoubhik01&repo=EDA-of-AQI-India-Dataset-with-Tableau-and-Python&hide_border=true&border_radius=15&&line_height=24&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D" /></a>
   
   <!--<a href="https://github.com/SABERGLOW/AsteroidMiners">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SABERGLOW&repo=AsteroidMiners&hide_border=true&border_radius=15&&line_height=24&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D" /></a>
