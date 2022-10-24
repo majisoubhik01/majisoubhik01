@@ -19,11 +19,11 @@
 <img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/SQL.png" alt="SQL" width="57" height="55"/> 
 <p>&nbsp;</p>
 <p align="center">
-<img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Logo-2016.png" alt="powerbi" width="65" height="48"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="jupyter notebook" width="47" height="48"/>
+<img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Logo-2016.png" alt="powerbi" width="67" height="48"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="jupyter notebook" width="47" height="50"/>
 <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" alt="tableau" width="65" height="48"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png" alt="numpy" width="67" height="48"/>
-  <img src="https://www.kindpng.com/picc/m/574-5747046_python-pandas-logo-transparent-hd-png-download.png" alt="pandas" width="68" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png" alt="numpy" width="70" height="48"/>
+  <img src="https://www.kindpng.com/picc/m/574-5747046_python-pandas-logo-transparent-hd-png-download.png" alt="pandas" width="72" height="48"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="scikit learn" width="65" height="48"/>
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/217d5ea0-623d-40b1-9b31-027b904a5f15/ddjrgww-846ce429-3b0d-4ad8-bf6d-ac52dfe48201.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMjE3ZDVlYTAtNjIzZC00MGIxLTliMzEtMDI3YjkwNGE1ZjE1XC9kZGpyZ3d3LTg0NmNlNDI5LTNiMGQtNGFkOC1iZjZkLWFjNTJkZmU0ODIwMS5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.ZkEnCXJtjhT0v0UEQF7_k0VfiSaIoZa-YlerQJG-CXw" alt="vscode" width="48" height="48"/> 
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/217d5ea0-623d-40b1-9b31-027b904a5f15/dccudp7-3a29ffd5-4e85-4123-88cc-4e948bedd7c1.png/v1/fill/w_512,h_512,strp/honeycomb_icon_pycharm_by_mauriliosm_dccudp7-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD01MTIiLCJwYXRoIjoiXC9mXC8yMTdkNWVhMC02MjNkLTQwYjEtOWIzMS0wMjdiOTA0YTVmMTVcL2RjY3VkcDctM2EyOWZmZDUtNGU4NS00MTIzLTg4Y2MtNGU5NDhiZWRkN2MxLnBuZyIsIndpZHRoIjoiPD01MTIifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.H8trsVIaTWNWAe_KnDtr1GN7tt8V8S3ANzAGW1MG2Bs" alt="PyCharm" width="48" height="48"/> 
@@ -53,8 +53,6 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=majisoubhik01&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&border_radius=15&line_height=24&&title_color=020024&text_color=ffffff&icon_color=020024&bg_color=4,C06C84,6C5B7B,355C7D)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=majisoubhik01)  
-
-
 
 <!--
 **majisoubhik01/majisoubhik01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
