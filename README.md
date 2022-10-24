@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Soubhik Maji
+### Hi there 👋
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎‍♂️ Soubhik Maji | 💻 Future Data Scientist | 🛸 Kolkata, India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
