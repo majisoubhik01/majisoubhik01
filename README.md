@@ -1,12 +1,10 @@
 ![](https://github.com/majisoubhik01/majisoubhik01/blob/main/gif/Black%20Hole%20Entry.gif)
 
-### Hi there 👋
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎‍♂️ Soubhik Maji | 💻 Future Data Scientist | 🛸 Kolkata, India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 ### I am currently pursuing a Post Graduate Program in Data Science from Praxis Business School, Kolkata
-<img align="right" height="270px" width="450px" alt="GIF" src="https://github.com/majisoubhik01/majisoubhik01/blob/main/gif/Black%20Hole%20Entry.gif" />
 
 - 🔭 I’m currently working on this Phishing Classification 
 - 🌱 I’m currently learning R, Big Data, Spark, Time Series Forecasting  
