@@ -4,10 +4,10 @@
 </div>
 
 ### I am currently pursuing a Post Graduate Program in Data Science from Praxis Business School, Kolkata
-<!--<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" /> -->
+<img align="right" height="270px" width="450px" alt="GIF" src="https://github.com/majisoubhik01/majisoubhik01/blob/master/gif/Black-Hole-Entry.gif" />
 
 - 🔭 I’m currently working on this Phishing Classification 
-- 🌱 I’m currently learning R, Big Data, Spark, Time Series Forecasting
+- 🌱 I’m currently learning R, Big Data, Spark, Time Series Forecasting  
 - 👯 I’m looking to collaborate on Hackathons
 
 ## Programming Languages/Tools
