@@ -1,4 +1,6 @@
-<img src="https://github.com/majisoubhik01/majisoubhik01/blob/main/gif/EntryMatrix.gif" align="center" width="900" height="600"/>
+<p align="center">
+<img src="https://github.com/majisoubhik01/majisoubhik01/blob/main/gif/EntryMatrix.gif" align="center" width="720" height="480"/>
+</p>
 
 <!-- ![](https://github.com/majisoubhik01/majisoubhik01/blob/main/gif/Black%20Hole%20Entry.gif) -->
 
