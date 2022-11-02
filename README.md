@@ -1,6 +1,6 @@
-![](https://i.gifer.com/7h7F.gif)
+<img src="https://github.com/majisoubhik01/majisoubhik01/blob/main/gif/EntryMatrix.gif" width="400" height="250"/>
 
-![](https://github.com/majisoubhik01/majisoubhik01/blob/main/gif/Black%20Hole%20Entry.gif)
+<!-- ![](https://github.com/majisoubhik01/majisoubhik01/blob/main/gif/Black%20Hole%20Entry.gif) -->
 
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎‍♂️ Soubhik Maji | 💻 Future Data Scientist | 🛸 Kolkata, India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
