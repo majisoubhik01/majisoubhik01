@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/majisoubhik01/majisoubhik01/blob/main/gif/EntryMatrix.gif" align="center" width="960" height="400"/>
+<img src="https://github.com/majisoubhik01/majisoubhik01/blob/main/gif/EntryMatrix.gif" align="center" width="960" height="450"/>
 </p>
 
 <!-- ![](https://github.com/majisoubhik01/majisoubhik01/blob/main/gif/Black%20Hole%20Entry.gif) -->
