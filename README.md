@@ -58,7 +58,7 @@
   
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=majisoubhik01&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&border_radius=15&line_height=24&&title_color=020024&text_color=ffffff&icon_color=020024&bg_color=4,C06C84,6C5B7B,355C7D)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=majisoubhik01)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=majisoubhik01)  -->
 
 
 <!--
