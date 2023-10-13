@@ -10,10 +10,10 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎‍♂️ Soubhik Maji | 💻 Data Scientist | 🛸 Bengaluru, India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
-### I am currently pursuing a Post Graduate Program in Data Science from Praxis Business School, Kolkata
+### I am currently a Data Scientist In Subex AI Labs, Bangalore
 
-- 🔭 I’m currently working on [EDA on AQI of India](https://github.com/majisoubhik01/EDA-of-AQI-India-Dataset-with-Tableau-and-Python)
-- 🌱 I’m currently learning R, Big Data, Spark, Time Series Forecasting  
+- 🔭 I’m currently working on PySpark 
+- 🌱 I’m currently learning [PyTorch](https://github.com/majisoubhik01/PyTorchSeries) 
 - 👯 I’m looking to collaborate on Hackathons
 
 ## Programming Languages/Tools
