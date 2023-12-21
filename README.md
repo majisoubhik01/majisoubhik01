@@ -13,7 +13,7 @@
 ### I am currently a Data Scientist In Subex AI Labs, Bangalore
 
 - 🔭 I’m currently working on PySpark 
-- 🌱 I’m currently learning [PyTorch](https://github.com/majisoubhik01/PyTorchSeries) 
+- 🌱 I’m currently learning [PyTorch](https://github.com/majisoubhik01/PyTorchSeries) and [Lancghain](https://github.com/majisoubhik01/Learning-Langchain)
 - 👯 I’m looking to collaborate on Hackathons
 
 ## Programming Languages/Tools
